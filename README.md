@@ -1,7 +1,7 @@
 Minecraft Server Control
 ========================
 
-A Python script to control and back up a Minecraft server.
+A Python script to control and back up a Minecraft server running in ``screen``. 
 
 This Python script allows you to control a Minecraft server through init.d-like commands. You can view the status of the server, start the server, and stop the server:
 
